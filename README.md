@@ -1,15 +1,15 @@
 <h2 align="center"> VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence</h2>
 
 <div align="center">
-<!--   <img src="https://github.com/countytown/Visually-Grounded-SIQ/blob/main/media/motivation.png" width="100%"> -->
-    <img src="https://github.com/countytown/Visually-Grounded-SIQ/blob/main/media/structure.png" width="80%">  
+<!--   <img src="https://github.com/lihao921/VEGAS/blob/main/media/motivation.png" width="100%"> -->
+    <img src="https://github.com/lihao921/VEGAS/blob/main/media/structure.png" width="80%">  
 
 </div>
 
  
 # Data preparation
 ## Training Data
- <img src="https://github.com/countytown/Visually-Grounded-SIQ/blob/main/media/learning.png" width="100%">
+ <img src="https://github.com/lihao921/VEGAS/blob/main/media/learning.png" width="100%">
  
 ### LGS Datasets
 - Download Video-ChatGPT data used for the baseline [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA/blob/main/TRAIN_AND_VALIDATE.md) fine-tuning .
